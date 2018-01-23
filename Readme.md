@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Максим Линник](https://up.htmlacademy.ru/javascript/12/user/524203).
-* Наставник: Екатерина Кащенко.
+* Студент: [Максим Линник](https://up.htmlacademy.ru/javascript/12/user/524203)
+* Наставник: [Екатерина Кащенко](https://htmlacademy.ru/profile/id109008)
 
 ---
 
